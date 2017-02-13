@@ -1,6 +1,6 @@
 [Source](http://healthyblenderrecipes.com/recipes/home_made_raw_cashew_milk "Permalink to Raw Cashew Milk | Cashew Nut Milk Recipe")
 
-# Raw Cashew Milk | Cashew Nut Milk Recipe
+# Raw Cashew Milk
 ## unsweetened cashew milk:
 
 -   1 cup [raw cashews], [soaked for 2 hours]
