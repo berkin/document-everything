@@ -7,3 +7,5 @@
 - [ ] go to file, go to declariton in another file
 - [ ] session shortcuts.
 - [ ] delete backward word or char
+- [ ] delete all inside div
+- [ ] hide long attr like svg
