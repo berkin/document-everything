@@ -7,5 +7,7 @@
 - [ ] go to file, go to declariton in another file
 - [ ] session shortcuts.
 - [ ] delete backward word or char
-- [ ] delete all inside div
 - [ ] hide long attr like svg
+- [ ] Ack unknown types. ex. scss, mustache
+- [ ] Ack exclude, ctrlp exclude
+- [ ] change tab without save
